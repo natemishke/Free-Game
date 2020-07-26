@@ -1,0 +1,5 @@
+To play game, go inside the Car Mechanic Simulator 2018 Porsche folder, right click and run 'cms2018' as administrator
+
+If you get any missing dll errors, go inside the _CommonRedist folder and install 'DXSETUP' from DirectX Jun2010 folder
+
+For more FREE PC games, visit crohasit.com
